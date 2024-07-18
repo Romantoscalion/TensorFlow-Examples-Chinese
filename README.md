@@ -14,7 +14,7 @@ It is suitable for beginners who want to find clear and concise examples about T
 
 
 
-***译者注：**这个项目是基于开源项目TensorFlow Examples制作的翻译为中文的版本，翻译可能不准确。译者不会删去原文，方便读者查阅原文进行比对。有时译者会插入这样的译者注，表达一些个人观点，如有错误还请指出。*
+**译者注** ：*这个项目是基于开源项目TensorFlow Examples制作的翻译为中文的版本，翻译可能不准确。译者不会删去原文，方便读者查阅原文进行比对。有时译者会插入这样的译者注，表达一些个人观点，如有错误还请指出。*
 
 
 
@@ -48,7 +48,7 @@ It is suitable for beginners who want to find clear and concise examples about T
 
 
 
-***译者注：**Read Me暂时翻译到这里，接下来会去逐个翻译上面的Jupyter。*
+**译者注** ：*Read Me暂时翻译到这里，接下来会去逐个翻译上面的Jupyter。*
 
 
 

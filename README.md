@@ -25,8 +25,8 @@ It is suitable for beginners who want to find clear and concise examples about T
 - [Introduction to MNIST Dataset —— 关于MINIST](tensorflow_v2/notebooks/0_Prerequisite/mnist_dataset_intro.ipynb).
 
 #### 1 - Introduction - 引言
-- **Hello World** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/1_Introduction/helloworld.ipynb)). Very simple example to learn how to print "hello world" using TensorFlow 2.0+.
-  - **Hello World** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/1_Introduction/helloworld.ipynb)). 通过简单的例子去学习如何基于TensorFlow 2.0+ 打印 “hello world” 。
+- **Hello World** ([notebook](tensorflow_v2/notebooks/1_Introduction/helloworld.ipynb)). Very simple example to learn how to print "hello world" using TensorFlow 2.0+.
+  - **Hello World** ([notebook](tensorflow_v2/notebooks/1_Introduction/helloworld.ipynb)). 通过简单的例子去学习如何基于TensorFlow 2.0+ 打印 “hello world” 。
 
 - **Basic Operations** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/1_Introduction/basic_operations.ipynb)). A simple example that cover TensorFlow 2.0+ basic operations.
   - **基本操作**（[notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/1_Introduction/basic_operations.ipynb)）。一个简单的例子，涵盖了 TensorFlow 2.0+ 的基本操作。

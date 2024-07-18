@@ -2,25 +2,55 @@
 
 This tutorial was designed for easily diving into TensorFlow, through examples. For readability, it includes both notebooks and source codes with explanation, for both TF v1 & v2.
 
+本教程旨在通过示例轻松深入学习TensorFlow。为了便于阅读，教程中包括了Jupyter notebook和源代码，并附有对TF v1和v2的解释。
+
 It is suitable for beginners who want to find clear and concise examples about TensorFlow. Besides the traditional 'raw' TensorFlow implementations, you can also find the latest TensorFlow API practices (such as `layers`, `estimator`, `dataset`, ...).
+
+这适合于想要找到关于TensorFlow清晰简洁示例的初学者。除了传统的“原始”TensorFlow实现，你还可以找到最新的TensorFlow API实践（例如`layers`、`estimator`、`dataset`等）。
 
 **Update (05/16/2020):** Moving all default examples to TF2. For TF v1 examples: [check here](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v1).
 
-## Tutorial index
+**更新（2020年5月16日）：** 将所有默认示例迁移到TF2。有关TF v1示例，请[点击此处](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v1)。
 
-#### 0 - Prerequisite
-- [Introduction to Machine Learning](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/0_Prerequisite/ml_introduction.ipynb).
-- [Introduction to MNIST Dataset](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/0_Prerequisite/mnist_dataset_intro.ipynb).
 
-#### 1 - Introduction
+
+***译者注：**这个项目是基于开源项目TensorFlow Examples制作的翻译为中文的版本，翻译可能不准确。译者不会删去原文，方便读者查阅原文进行比对。有时译者会插入这样的译者注，表达一些个人观点，如有错误还请指出。*
+
+
+
+## Tutorial index —— 教程目录
+
+#### 0 - Prerequisite - 预备知识
+- [Introduction to Machine Learning —— 机器学习概述](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/0_Prerequisite/ml_introduction.ipynb).
+- [Introduction to MNIST Dataset —— 关于MINIST](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/0_Prerequisite/mnist_dataset_intro.ipynb).
+
+#### 1 - Introduction - 引言
 - **Hello World** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/1_Introduction/helloworld.ipynb)). Very simple example to learn how to print "hello world" using TensorFlow 2.0+.
-- **Basic Operations** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/1_Introduction/basic_operations.ipynb)). A simple example that cover TensorFlow 2.0+ basic operations.
+  - **Hello World** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/1_Introduction/helloworld.ipynb)). 通过简单的例子去学习如何基于TensorFlow 2.0+ 打印 “hello world” 。
 
-#### 2 - Basic Models
+- **Basic Operations** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/1_Introduction/basic_operations.ipynb)). A simple example that cover TensorFlow 2.0+ basic operations.
+  - **基本操作**（[notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/1_Introduction/basic_operations.ipynb)）。一个简单的例子，涵盖了 TensorFlow 2.0+ 的基本操作。
+
+
+#### 2 - Basic Models - 基本模型
 - **Linear Regression** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/linear_regression.ipynb)). Implement a Linear Regression with TensorFlow 2.0+.
+  - **线性回归**（[notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/linear_regression.ipynb)）。使用 TensorFlow 2.0+ 实现线性回归。
+
 - **Logistic Regression** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/logistic_regression.ipynb)). Implement a Logistic Regression with TensorFlow 2.0+.
+  - **逻辑回归**（[notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/logistic_regression.ipynb)）。使用 TensorFlow 2.0+ 实现逻辑回归。
+
 - **Word2Vec (Word Embedding)** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/word2vec.ipynb)). Build a Word Embedding Model (Word2Vec) from Wikipedia data, with TensorFlow 2.0+.
+  - **Word2Vec（词嵌入、word to vector）**（[notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/word2vec.ipynb)）。使用 TensorFlow 2.0+ 从维基百科数据构建一个词嵌入模型（Word2Vec）。
+
 - **GBDT (Gradient Boosted Decision Trees)** ([notebooks](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/gradient_boosted_trees.ipynb)). Implement a Gradient Boosted Decision Trees with TensorFlow 2.0+ to predict house value using Boston Housing dataset.
+  - **GBDT（梯度提升决策树）**（[notebooks](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/gradient_boosted_trees.ipynb)）。使用 TensorFlow 2.0+ 实现梯度提升决策树，使用波士顿房价数据集进行房屋价值预测。
+
+
+
+
+***译者注：**Read Me暂时翻译到这里，接下来会去逐个翻译上面的Jupyter。*
+
+
 
 #### 3 - Neural Networks
 ##### Supervised

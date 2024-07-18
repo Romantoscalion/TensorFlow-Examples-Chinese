@@ -22,7 +22,7 @@ It is suitable for beginners who want to find clear and concise examples about T
 
 #### 0 - Prerequisite - 预备知识
 - [Introduction to Machine Learning —— 机器学习概述](tensorflow_v2/notebooks/0_Prerequisite/ml_introduction.ipynb).
-- [Introduction to MNIST Dataset —— 关于MINIST](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/0_Prerequisite/mnist_dataset_intro.ipynb).
+- [Introduction to MNIST Dataset —— 关于MINIST](tensorflow_v2/notebooks/0_Prerequisite/mnist_dataset_intro.ipynb).
 
 #### 1 - Introduction - 引言
 - **Hello World** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/1_Introduction/helloworld.ipynb)). Very simple example to learn how to print "hello world" using TensorFlow 2.0+.

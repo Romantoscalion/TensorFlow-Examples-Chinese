@@ -21,7 +21,7 @@ It is suitable for beginners who want to find clear and concise examples about T
 ## Tutorial index —— 教程目录
 
 #### 0 - Prerequisite - 预备知识
-- [Introduction to Machine Learning —— 机器学习概述](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/0_Prerequisite/ml_introduction.ipynb).
+- [Introduction to Machine Learning —— 机器学习概述](tensorflow_v2/notebooks/0_Prerequisite/ml_introduction.ipynb).
 - [Introduction to MNIST Dataset —— 关于MINIST](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/0_Prerequisite/mnist_dataset_intro.ipynb).
 
 #### 1 - Introduction - 引言

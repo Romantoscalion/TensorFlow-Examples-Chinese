@@ -28,8 +28,8 @@ It is suitable for beginners who want to find clear and concise examples about T
 - **Hello World** ([notebook](tensorflow_v2/notebooks/1_Introduction/helloworld.ipynb)). Very simple example to learn how to print "hello world" using TensorFlow 2.0+.
   - **Hello World** ([notebook](tensorflow_v2/notebooks/1_Introduction/helloworld.ipynb)). 通过简单的例子去学习如何基于TensorFlow 2.0+ 打印 “hello world” 。
 
-- **Basic Operations** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/1_Introduction/basic_operations.ipynb)). A simple example that cover TensorFlow 2.0+ basic operations.
-  - **基本操作**（[notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/1_Introduction/basic_operations.ipynb)）。一个简单的例子，涵盖了 TensorFlow 2.0+ 的基本操作。
+- **Basic Operations** ([notebook](tensorflow_v2/notebooks/1_Introduction/basic_operations.ipynb)). A simple example that cover TensorFlow 2.0+ basic operations.
+  - **基本操作**（[notebook](tensorflow_v2/notebooks/1_Introduction/basic_operations.ipynb)）。一个简单的例子，涵盖了 TensorFlow 2.0+ 的基本操作。
 
 
 #### 2 - Basic Models - 基本模型

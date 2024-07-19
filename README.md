@@ -36,8 +36,8 @@ It is suitable for beginners who want to find clear and concise examples about T
 - **Linear Regression** ([notebook](tensorflow_v2/notebooks/2_BasicModels/linear_regression.ipynb)). Implement a Linear Regression with TensorFlow 2.0+.
   - **线性回归**（[notebook](tensorflow_v2/notebooks/2_BasicModels/linear_regression.ipynb)）。使用 TensorFlow 2.0+ 实现线性回归。
 
-- **Logistic Regression** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/logistic_regression.ipynb)). Implement a Logistic Regression with TensorFlow 2.0+.
-  - **逻辑回归**（[notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/logistic_regression.ipynb)）。使用 TensorFlow 2.0+ 实现逻辑回归。
+- **Logistic Regression** ([notebook](tensorflow_v2/notebooks/2_BasicModels/logistic_regression.ipynb)). Implement a Logistic Regression with TensorFlow 2.0+.
+  - **逻辑回归**（[notebook](tensorflow_v2/notebooks/2_BasicModels/logistic_regression.ipynb)）。使用 TensorFlow 2.0+ 实现逻辑回归。
 
 - **Word2Vec (Word Embedding)** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/word2vec.ipynb)). Build a Word Embedding Model (Word2Vec) from Wikipedia data, with TensorFlow 2.0+.
   - **Word2Vec（词嵌入、word to vector）**（[notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/word2vec.ipynb)）。使用 TensorFlow 2.0+ 从维基百科数据构建一个词嵌入模型（Word2Vec）。

@@ -33,8 +33,8 @@ It is suitable for beginners who want to find clear and concise examples about T
 
 
 #### 2 - Basic Models - 基本模型
-- **Linear Regression** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/linear_regression.ipynb)). Implement a Linear Regression with TensorFlow 2.0+.
-  - **线性回归**（[notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/linear_regression.ipynb)）。使用 TensorFlow 2.0+ 实现线性回归。
+- **Linear Regression** ([notebook](tensorflow_v2/notebooks/2_BasicModels/linear_regression.ipynb)). Implement a Linear Regression with TensorFlow 2.0+.
+  - **线性回归**（[notebook](tensorflow_v2/notebooks/2_BasicModels/linear_regression.ipynb)）。使用 TensorFlow 2.0+ 实现线性回归。
 
 - **Logistic Regression** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/logistic_regression.ipynb)). Implement a Logistic Regression with TensorFlow 2.0+.
   - **逻辑回归**（[notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/logistic_regression.ipynb)）。使用 TensorFlow 2.0+ 实现逻辑回归。

@@ -46,16 +46,15 @@ It is suitable for beginners who want to find clear and concise examples about T
   - **GBDT（梯度提升决策树）**（[notebooks](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/2_BasicModels/gradient_boosted_trees.ipynb)）。使用 TensorFlow 2.0+ 实现梯度提升决策树，使用波士顿房价数据集进行房屋价值预测。
 
 
-
-
-**译者注** ：*Read Me暂时翻译到这里，接下来会去逐个翻译上面的Jupyter。*
+**译者注** : *上面这两篇Word2Vec和GBDT的与目前需要的知识相关性不大, 且文件均存在较困难的Python包的版本问题，暂时不翻译。*
 
 
 
-#### 3 - Neural Networks
-##### Supervised
+#### 3 - Neural Networks - 神经网络
+##### Supervised - 有监督学习
 
-- **Simple Neural Network** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/3_NeuralNetworks/neural_network.ipynb)). Use TensorFlow 2.0 'layers' and 'model' API to build a simple neural network to classify MNIST digits dataset.
+- **Simple Neural Network** ([notebook](tensorflow_v2/notebooks/3_NeuralNetworks/neural_network.ipynb)). Use TensorFlow 2.0 'layers' and 'model' API to build a simple neural network to classify MNIST digits dataset.
+  - **简单的神经网络** ([notebook](tensorflow_v2/notebooks/3_NeuralNetworks/neural_network.ipynb)). 使用 TensorFlow 2.0 'layers' 和 'model' API 构建一个简单的神经网络，用于分类 MNIST 数字数据集。
 - **Simple Neural Network (low-level)** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/3_NeuralNetworks/neural_network_raw.ipynb)). Raw implementation of a simple neural network to classify MNIST digits dataset.
 - **Convolutional Neural Network** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/3_NeuralNetworks/convolutional_network.ipynb)). Use TensorFlow 2.0+ 'layers' and 'model' API to build a convolutional neural network to classify MNIST digits dataset.
 - **Convolutional Neural Network (low-level)** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/3_NeuralNetworks/convolutional_network_raw.ipynb)). Raw implementation of a convolutional neural network to classify MNIST digits dataset.

@@ -60,16 +60,20 @@ It is suitable for beginners who want to find clear and concise examples about T
 - **Convolutional Neural Network** ([notebook](tensorflow_v2/notebooks/3_NeuralNetworks/convolutional_network.ipynb)). Use TensorFlow 2.0+ 'layers' and 'model' API to build a convolutional neural network to classify MNIST digits dataset.
   - **卷积神经网络** 。([notebook](tensorflow_v2/notebooks/3_NeuralNetworks/convolutional_network.ipynb)) 使用 TensorFlow 2.0+ 'layers' 和 'model' API 构建卷积神经网络，用于分类 MNIST 数字数据集。
 - **Convolutional Neural Network (low-level)** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/3_NeuralNetworks/convolutional_network_raw.ipynb)). Raw implementation of a convolutional neural network to classify MNIST digits dataset.
+  -  **卷积神经网络（低级）** 。([notebook](tensorflow_v2/notebooks/3_NeuralNetworks/convolutional_network.ipynb)) 使用更原始的方式实现CNN，用于分类MNIST数据集。（这个例子与上一个例子相似，但是这个例子使用了更原始的方法，这里译者暂不翻译，请阅读上一条）
 - **Recurrent Neural Network (LSTM)** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/3_NeuralNetworks/recurrent_network.ipynb)). Build a recurrent neural network (LSTM) to classify MNIST digits dataset, using TensorFlow 2.0 'layers' and 'model' API.
 - **Bi-directional Recurrent Neural Network (LSTM)** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/3_NeuralNetworks/bidirectional_rnn.ipynb)). Build a bi-directional recurrent neural network (LSTM) to classify MNIST digits dataset, using TensorFlow 2.0+ 'layers' and 'model' API.
 - **Dynamic Recurrent Neural Network (LSTM)** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/3_NeuralNetworks/dynamic_rnn.ipynb)). Build a recurrent neural network (LSTM) that performs dynamic calculation to classify sequences of variable length, using TensorFlow 2.0+ 'layers' and 'model' API.
+
+**译者注** ：*上面剩下的几篇想先忽略、这几篇的内容与目前需要的知识相关性不大。接下来会翻译Utility部分和Data Management部分的内容。*
 
 ##### Unsupervised
 - **Auto-Encoder** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/3_NeuralNetworks/autoencoder.ipynb)). Build an auto-encoder to encode an image to a lower dimension and re-construct it.
 - **DCGAN (Deep Convolutional Generative Adversarial Networks)** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/3_NeuralNetworks/dcgan.ipynb)). Build a Deep Convolutional Generative Adversarial Network (DCGAN) to generate images from noise.
 
-#### 4 - Utilities
-- **Save and Restore a model** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/4_Utils/save_restore_model.ipynb)). Save and Restore a model with TensorFlow 2.0+.
+#### 4 - Utilities - 实用工具和技巧
+- **Save and Restore a model** ([notebook](tensorflow_v2/notebooks/4_Utils/save_restore_model.ipynb)). Save and Restore a model with TensorFlow 2.0+.
+  - **保存和读取模型** ([notebook](tensorflow_v2/notebooks/4_Utils/save_restore_model.ipynb)). 用 TensorFlow 2.0+ 保存和读取模型。
 - **Build Custom Layers & Modules** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/4_Utils/build_custom_layers.ipynb)). Learn how to build your own layers / modules and integrate them into TensorFlow 2.0+ Models.
 - **Tensorboard** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/4_Utils/tensorboard.ipynb)). Track and visualize neural network computation graph, metrics, weights and more using TensorFlow 2.0+ tensorboard.
 

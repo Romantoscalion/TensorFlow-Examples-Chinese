@@ -81,8 +81,9 @@ It is suitable for beginners who want to find clear and concise examples about T
   - **译者注** ： *该篇代码年久失修已经无法正常在新版本中运行了，暂时不翻，关于tensorborad的内容看下面这篇吧、是译者自己写的。*
   - **Tensorboard_new** ([notebook](tensorflow_v2/notebooks/4_Utils/tensorboard_new.ipynb)). 使用 TensorFlow 2.0+ tensorboard 跟踪和可视化神经网络计算过程中的各项数据。
 
-#### 5 - Data Management
-- **Load and Parse data** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/5_DataManagement/load_data.ipynb)). Build efficient data pipeline with TensorFlow 2.0 (Numpy arrays, Images, CSV files, custom data, ...).
+#### 5 - Data Management - 数据管理
+- **Load and Parse data** ([notebook](tensorflow_v2/notebooks/5_DataManagement/load_data.ipynb)). Build efficient data pipeline with TensorFlow 2.0 (Numpy arrays, Images, CSV files, custom data, ...).
+  - **加载和解析数据** ([notebook](tensorflow_v2/notebooks/5_DataManagement/load_data.ipynb)). 使用 TensorFlow 2.0创建高效的数据管道，如Numpy 数组、图像、CSV 文件、自定义数据等。
 - **Build and Load TFRecords** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/5_DataManagement/tfrecords.ipynb)). Convert data into TFRecords format, and load them with TensorFlow 2.0+.
 - **Image Transformation (i.e. Image Augmentation)** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/5_DataManagement/image_transformation.ipynb)). Apply various image augmentation techniques with TensorFlow 2.0+, to generate distorted images for training.
 

@@ -75,7 +75,11 @@ It is suitable for beginners who want to find clear and concise examples about T
 - **Save and Restore a model** ([notebook](tensorflow_v2/notebooks/4_Utils/save_restore_model.ipynb)). Save and Restore a model with TensorFlow 2.0+.
   - **保存和读取模型** ([notebook](tensorflow_v2/notebooks/4_Utils/save_restore_model.ipynb)). 用 TensorFlow 2.0+ 保存和读取模型。
 - **Build Custom Layers & Modules** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/4_Utils/build_custom_layers.ipynb)). Learn how to build your own layers / modules and integrate them into TensorFlow 2.0+ Models.
-- **Tensorboard** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/4_Utils/tensorboard.ipynb)). Track and visualize neural network computation graph, metrics, weights and more using TensorFlow 2.0+ tensorboard.
+  - 此篇翻译暂时推迟
+- **Tensorboard** ([notebook](tensorflow_v2/notebooks/4_Utils/tensorboard.ipynb)). Track and visualize neural network computation graph, metrics, weights and more using TensorFlow 2.0+ tensorboard.
+  - **Tensorboard** ([notebook](tensorflow_v2/notebooks/4_Utils/tensorboard.ipynb)). 使用 TensorFlow 2.0+ tensorboard 跟踪和可视化神经网络计算过程中的各项数据。
+  - **译者注** ： *该篇代码年久失修已经无法正常在新版本中运行了，暂时不翻，关于tensorborad的内容看下面这篇吧、是译者自己写的。*
+  - **Tensorboard_new** ([notebook](tensorflow_v2/notebooks/4_Utils/tensorboard_new.ipynb)). 使用 TensorFlow 2.0+ tensorboard 跟踪和可视化神经网络计算过程中的各项数据。
 
 #### 5 - Data Management
 - **Load and Parse data** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/5_DataManagement/load_data.ipynb)). Build efficient data pipeline with TensorFlow 2.0 (Numpy arrays, Images, CSV files, custom data, ...).

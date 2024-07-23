@@ -84,8 +84,11 @@ It is suitable for beginners who want to find clear and concise examples about T
 #### 5 - Data Management - 数据管理
 - **Load and Parse data** ([notebook](tensorflow_v2/notebooks/5_DataManagement/load_data.ipynb)). Build efficient data pipeline with TensorFlow 2.0 (Numpy arrays, Images, CSV files, custom data, ...).
   - **加载和解析数据** ([notebook](tensorflow_v2/notebooks/5_DataManagement/load_data.ipynb)). 使用 TensorFlow 2.0创建高效的数据管道，如Numpy 数组、图像、CSV 文件、自定义数据等。
-- **Build and Load TFRecords** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/5_DataManagement/tfrecords.ipynb)). Convert data into TFRecords format, and load them with TensorFlow 2.0+.
-- **Image Transformation (i.e. Image Augmentation)** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/5_DataManagement/image_transformation.ipynb)). Apply various image augmentation techniques with TensorFlow 2.0+, to generate distorted images for training.
+- **Build and Load TFRecords** ([notebook](tensorflow_v2/notebooks/5_DataManagement/tfrecords.ipynb)). Convert data into TFRecords format, and load them with TensorFlow 2.0+.
+  - **构造和加载TFRecords** ([notebook](tensorflow_v2/notebooks/5_DataManagement/tfrecords.ipynb)). 用TensorFlow 2.0+ 将数据转换为TFRecords格式，并加载它们。
+  - **译者注** ：*这篇内容是关于TFRecords的，TFRecords是一种二进制文件格式，用于存储序列化的数据，这可以加速数据读取。如果目前的工作性能瓶颈并未出现在文件读取上，那么可以不用TFRecords。这里译者暂时不翻。*
+- **Image Transformation (i.e. Image Augmentation)** ([notebook](tensorflow_v2/notebooks/5_DataManagement/image_transformation.ipynb)). Apply various image augmentation techniques with TensorFlow 2.0+, to generate distorted images for training.
+  - **图像变换 (即 图像增强)** ([notebook](tensorflow_v2/notebooks/5_DataManagement/image_transformation.ipynb)). 使用 TensorFlow 2.0+ 应用各种图像增强技术，生成用于训练的扭曲图像。
 
 #### 6 - Hardware
 - **Multi-GPU Training** ([notebook](https://github.com/aymericdamien/TensorFlow-Examples/blob/master/tensorflow_v2/notebooks/6_Hardware/multigpu_training.ipynb)). Train a convolutional neural network with multiple GPUs on CIFAR-10 dataset.
